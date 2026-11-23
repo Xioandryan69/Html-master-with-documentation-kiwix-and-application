@@ -118,3 +118,6 @@ before<hr />after
 <h5> This is Heading 5 </h5>
 <h6> This is Heading 6 </h6>
 
+
+<!-- A one-line comment -->
+
